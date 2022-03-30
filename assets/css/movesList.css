@@ -1,0 +1,15 @@
+.moves
+{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.movesName
+{
+font-family: Avenir_black;
+text-transform: capitalize;
+font-size: 1.5rem;
+}

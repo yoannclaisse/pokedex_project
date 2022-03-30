@@ -1,0 +1,19 @@
+.noContent
+{
+    width: 100%;
+    height: 100%;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    text-align: center;
+}
+
+.noWork
+{
+    height: 50%;
+    width: 100%;
+    font-family: Avenir_black;
+    font-size: 3rem;
+}
